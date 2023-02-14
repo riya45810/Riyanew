@@ -1,0 +1,15 @@
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\bin\Debug\net6.0\Reverse.exe
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\bin\Debug\net6.0\Reverse.deps.json
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\bin\Debug\net6.0\Reverse.runtimeconfig.json
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\bin\Debug\net6.0\Reverse.dll
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\bin\Debug\net6.0\Reverse.pdb
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.csproj.AssemblyReference.cache
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfoInputs.cache
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.AssemblyInfo.cs
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.dll
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\refint\Reverse.dll
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.pdb
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\Reverse.genruntimeconfig.cache
+C:\Users\riya.fathima\source\repos\Reverse\Reverse\obj\Debug\net6.0\ref\Reverse.dll
